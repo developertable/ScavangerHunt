@@ -27,6 +27,7 @@
 		3F612FDB2E8E20AE00C4F671 /* ScavangerHunt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScavangerHunt.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F612FE82E8E20AF00C4F671 /* ScavangerHuntTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScavangerHuntTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F612FF22E8E20AF00C4F671 /* ScavangerHuntUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScavangerHuntUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3FC7611A2E947261008F695C /* ScavangerHunt.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = ScavangerHunt.xcodeproj; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +76,7 @@
 		3F612FD22E8E20AE00C4F671 = {
 			isa = PBXGroup;
 			children = (
+				3FC7611A2E947261008F695C /* ScavangerHunt.xcodeproj */,
 				3F612FDD2E8E20AE00C4F671 /* ScavangerHunt */,
 				3F612FEB2E8E20AF00C4F671 /* ScavangerHuntTests */,
 				3F612FF52E8E20AF00C4F671 /* ScavangerHuntUITests */,
