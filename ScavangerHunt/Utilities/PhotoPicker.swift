@@ -2,7 +2,7 @@
 //  PhotoPicker.swift
 //  ScavangerHunt
 //
-//  Created by Rahul Kurra on 2025-10-06.
+//  Created by Rahul Kurra  & Claude on 2025-10-06.
 //
 
 import SwiftUI
