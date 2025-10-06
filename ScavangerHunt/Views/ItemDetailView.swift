@@ -2,7 +2,7 @@
 //  ItemDetailView.swift
 //  ScavangerHunt
 //
-//  Created by Rahul Kurra on 2025-10-02.
+//  Created by Rahul Kurra & Claude on 2025-10-02.
 //
 
 import SwiftUI
