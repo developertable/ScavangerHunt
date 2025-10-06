@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  ScavangerHunt
 //
-//  Created by Rahul Kurra & Claude on 2025-10-01.
+//  Created by Rahul Kurra on 2025-10-01.
 //
 
 import SwiftUI
